@@ -15,10 +15,7 @@ public class Moneda {
 
     @Override
     public String toString() {
-        return "Moneda{" +
-                "name='" + name + '\'' +
-                ", Valor=" + Valor +
-                '}';
+        return "moneda=" + name + ", Valor=" + Valor ;
     }
 
 }
