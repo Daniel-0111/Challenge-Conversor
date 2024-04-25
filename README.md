@@ -20,9 +20,8 @@
 3. Sigue las instrucciones en pantalla para realizar conversiones de moneda según tus necesidades.
 
 ¡Esperamos que encuentres útil este conversor de monedas! No dudes en dejarnos tus comentarios y sugerencias para futuras mejoras.
-- Imagen del Programa en consola
 
-![image](https://github.com/Daniel-0111/Challenge-Conversor/assets/98565015/952e99cd-4dd9-454b-b2b4-68d75fbe7d40)
+## Algunas Capturas:
  
  - `Captura de pantalla del metodos`: 
  
@@ -31,4 +30,12 @@
  - `Captura de pantalla de la clase moneda`
 
  ![image](https://github.com/Daniel-0111/Challenge-Conversor/assets/98565015/f45f532e-baf1-44ad-967f-4ed3a0419d8e)
+
+- `Captura de pantalla del main con comprobaciones de errores`
+  
+![image](https://github.com/Daniel-0111/Challenge-Conversor/assets/98565015/de7843ab-ea6b-4c38-8f9a-c742943b818a)
+
+- `Captura de pantalla programa en consola`
+  
+![image](https://github.com/Daniel-0111/Challenge-Conversor/assets/98565015/b64e5d27-2380-4d43-8983-4e82446fa50f)
 
