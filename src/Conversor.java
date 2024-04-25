@@ -35,7 +35,7 @@
          return conversor.listaDeMonedas ;
      }
 
-     public void imprimidor(String monedalocal, String monedaDestino, int valor) throws IOException, InterruptedException {
+     public void calculadorConImpresor(String monedalocal, String monedaDestino, int valor) throws IOException, InterruptedException {
          System.out.println("++++++++++++++++++++++++++++++++++++++++");
          System.out.println("      "+valor + " "+monedalocal + " corresponde a " +
                  Busqueda(monedalocal).get(monedaDestino) * valor +" "+ monedaDestino );

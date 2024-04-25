@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Principal {
@@ -44,22 +43,22 @@ public class Principal {
                         }else {
                             switch (seleccion){
                                 case 1:
-                                    conversor.imprimidor("USD","ARS", valor );
+                                    conversor.calculadorConImpresor("USD","ARS", valor );
                                     break;
                                 case 2:
-                                    conversor.imprimidor("ARS","USD", valor );
+                                    conversor.calculadorConImpresor("ARS","USD", valor );
                                     break;
                                 case 3:
-                                    conversor.imprimidor("USD","BRL", valor );
+                                    conversor.calculadorConImpresor("USD","BRL", valor );
                                     break;
                                 case 4:
-                                    conversor.imprimidor("BRL","USD", valor );
+                                    conversor.calculadorConImpresor("BRL","USD", valor );
                                     break;
                                 case 5:
-                                    conversor.imprimidor("USD","COP", valor );
+                                    conversor.calculadorConImpresor("USD","COP", valor );
                                     break;
                                 case 6:
-                                    conversor.imprimidor("COP","USD", valor );
+                                    conversor.calculadorConImpresor("COP","USD", valor );
                                     break;
                             }
                         }
